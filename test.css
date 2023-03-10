@@ -1,0 +1,27 @@
+body{
+	background-color: lightyellow;
+}
+
+h1{
+font-size: 30px;
+color: indianred;
+}
+
+h2{
+font-size: 60px ;
+color: yellowgreen;
+}
+
+.Big{
+font-size: 80px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+.Big.uppercase{
+color: navy;
+}
+h1 span{
+color: blueviolet;
+}
